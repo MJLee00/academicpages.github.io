@@ -78,6 +78,6 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 If interested, please contact me via the WeChat QR code below:
 
-<img src="images/demo3.jpg" alt="Traffic Signal Control Screenshot" width="500" height="500" />
+<img src="images/demo3.png" alt="Traffic Signal Control Screenshot" width="500" height="500" />
 
 
