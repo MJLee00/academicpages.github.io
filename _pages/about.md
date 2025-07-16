@@ -49,11 +49,11 @@ If you are interested in my research, potential collaborations, or postdoctoral 
 # Project Snapshot
 
 Below is a video showcasing my work on traffic signal control algorithms deployed in real-world settings and mango TV show.
-<img src="assets/images/demo1.jpg" alt="Traffic Signal Control Screenshot" width="800" height="500" />
+<img src="blob/master/images/demo1.jpg" alt="Traffic Signal Control Screenshot" width="800" height="500" />
 
 [Traffic Signal Control in Lanzhou China](https://www.youtube.com/watch?v=RkZMaeF93SQ) 
 
-<img src="assets/images/demo2.jpg" alt="Traffic Signal Control Screenshot" width="500" height="300" />
+<img src="blob/master/images/demo2.jpg" alt="Traffic Signal Control Screenshot" width="500" height="300" />
 
 [Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
 
