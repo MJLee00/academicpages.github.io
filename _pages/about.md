@@ -74,4 +74,10 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 - **2020.9 – 2026.6**: PhD in Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing, China  
 - **2014.9 – 2018.6**: B.Eng. in Geographic Information Science, Central South University of Forestry and Technology, Changsha, China
 
+# Contact
+
+If interested, please contact me via the WeChat QR code below:
+
+<img src="images/demo3.jpg" alt="Traffic Signal Control Screenshot" width="500" height="500" />
+
 
