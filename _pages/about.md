@@ -48,9 +48,9 @@ If you are interested in my research, potential collaborations, or postdoctoral 
 
 Below is a video showcasing my work on traffic signal control algorithms deployed in real-world settings and mango TV show.
 
-![ ](/images/demo1.jpg)[Traffic Signal Control in Lanzhou China](https://www.youtube.com/watch?v=RkZMaeF93SQ) 
+![test](/images/demo1.jpg)[Traffic Signal Control in Lanzhou China](https://www.youtube.com/watch?v=RkZMaeF93SQ) 
 
-![ ](/images/demo2.jpg)[Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
+![test](/images/demo2.jpg)[Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
 
 # Work Experience
 
