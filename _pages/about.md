@@ -14,7 +14,7 @@ As a co-founder of Beijing City Intelligence, I have led the development of algo
 If you are interested in my research, potential collaborations, or postdoctoral opportunities, please feel free to contact me via email. I warmly welcome inquiries!
 
 
-## Publications
+# Publications
 
 - [**TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599530) 
   Q Wu\*, M Li\*, J Shen, L Lü, B Du, Zhang, Ke  
@@ -37,3 +37,21 @@ If you are interested in my research, potential collaborations, or postdoctoral 
 - [**Robustlight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control**](https://openreview.net/pdf?id=YGjd2xw98G)  
   M Li  
   ICML 2025
+
+
+# Work Experience
+
+- **2022.9 – Present**: Co-founder, Beijing City Intelligence Co., Ltd., Beijing, China  
+- **2022.6 – 2022.9**: Big Data Intern, Meituan, Beijing, China  
+- **2022.3 – 2022.6**: XiaoDu Intern, Baidu, Beijing, China  
+- **2021.9 – 2022.3**: AutoML Algorithm Intern, Didi, Beijing, China  
+- **2020.1 – 2020.8**: Big Data Developer, Manulife, China  
+- **2019.10 – 2022.1**: Postgraduate Entrance Exam Preparation, China  
+- **2019.4 – 2019.10**: C# Engineer, Shanghai Maisi Technology, Shanghai, China  
+- **2018.9 – 2019.4**: Postgraduate Entrance Exam Preparation, China  
+- **2017.6 – 2018.3**: CRM Developer (Outsourced to CICC), Shanghai Hande Information, Shanghai, China  
+
+# Education
+
+- **2020.9 – 2026.6**: PhD in Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing, China  
+- **2014.9 – 2018.6**: B.Eng. in Geographic Information Science, Central South University of Forestry and Technology, Changsha, China
