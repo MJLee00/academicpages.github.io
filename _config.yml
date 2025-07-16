@@ -13,9 +13,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mingyuan Li"
 description              : &description "third year Phd student"
-url                      : #https://mjlee00.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mjlee00.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"https://mjlee00.github.io/academicpages.github.io/"
+repository               : "https://mjlee00.github.io/academicpages.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Reinforcement learning"
   location         : "Beijing"
   employer         : "Beijing University of Posts and Telecommunication"
-  uri              : "https://github.com/MJLee00/academicpages.github.io"# URL
+  uri              : #"https://github.com/MJLee00/academicpages.github.io"# URL
   email            : "henryli_i@bupt.edu.cn" 
 
   # Academic websites
