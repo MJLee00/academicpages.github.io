@@ -16,26 +16,31 @@ If you are interested in my research, potential collaborations, or postdoctoral 
 
 # Publications
 
-- [**TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599530) 
+- [**TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599530)
+
   Q Wu\*, M Li\*, J Shen, L Lü, B Du, Zhang, Ke  
   KDD 2024 | *equal contribution, 2639-2647  
 
-- [**Decentralized Federated Unlearning on Blockchain**](https://arxiv.org/pdf/2402.16294v1)  
+- [**Decentralized Federated Unlearning on Blockchain**](https://arxiv.org/pdf/2402.16294v1)
+  
   X Liu\*, M Li\*, X Wang, G Yu, W Ni, L Li, H Peng, R Liu  
   IEEE Transactions on Information Forensics and Security | *equal contribution  
   2025  
 
 - [**Fishers Harvest Parallel Unlearning in Inherited Model Networks**](https://arxiv.org/pdf/2408.08493)
+  
   X Liu\*, M Li\*, X Wang, G Yu, W Ni, L Li, H Peng, R Liu  
   arXiv preprint arXiv:2408.08493 | *equal contribution  
   2024  
 
-- [**FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities**](https://arxiv.org/pdf/2501.15820?)  
+- [**FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities**](https://arxiv.org/pdf/2501.15820?)
+   
   M Li, J Wang, B Du, J Shen, Q Wu  
   KDD 2025  
 
-- [**Robustlight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control**](https://openreview.net/pdf?id=YGjd2xw98G)  
-  M Li  
+- [**Robustlight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control**](https://openreview.net/pdf?id=YGjd2xw98G)
+  
+  M Li, J wang, Guangsheng Yu, etc  
   ICML 2025
 
 
@@ -57,8 +62,10 @@ If you are interested in my research, potential collaborations, or postdoctoral 
 - **2014.9 – 2018.6**: B.Eng. in Geographic Information Science, Central South University of Forestry and Technology, Changsha, China
 
 
-# Research Demo Video
+# Project Snapshot
 
-Below is a video showcasing my work on traffic signal control algorithms deployed in real-world settings.
+Below is a video showcasing my work on traffic signal control algorithms deployed in real-world settings and mango TV show.
 
-[Demo 1](https://www.youtube.com/watch?v=RkZMaeF93SQ)
+![ ](demo1.jpg)[Traffic Signal Control in Lanzhou China](https://www.youtube.com/watch?v=RkZMaeF93SQ)
+
+![ ](demo2.jpg)[Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
