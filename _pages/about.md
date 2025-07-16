@@ -33,7 +33,7 @@ If you are interested in my research, potential collaborations, or postdoctoral 
   Q Wu\*, **M Li**\*, J Shen, L Lü, B Du, Zhang, Ke  
   KDD 2024 | *equal contribution, 2639-2647  
 
-- [**Decentralized Federated Unlearning on Blockchain**](https://arxiv.org/pdf/2402.16294v1)
+- [**BlockFUL: Enabling Unlearning in Blockchained Federated Learning**](https://arxiv.org/pdf/2402.16294v1)
   
   X Liu\*, **M Li**\*, X Wang, G Yu, W Ni, L Li, H Peng, R Liu  
   IEEE Transactions on Information Forensics and Security | *equal contribution  
