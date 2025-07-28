@@ -64,7 +64,7 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 - **2022.3 – 2022.6**: XiaoDu Intern, Baidu, Beijing, China  
 - **2021.9 – 2022.3**: AutoML Algorithm Intern, Didi, Beijing, China  
 - **2020.1 – 2020.8**: Big Data Developer, Manulife, China  
-- **2019.10 – 2022.1**: Postgraduate Entrance Exam Preparation, China  
+- **2019.10 – 2020.1**: Postgraduate Entrance Exam Preparation, China  
 - **2019.4 – 2019.10**: C# Engineer, Shanghai Maisi Technology, Shanghai, China  
 - **2018.9 – 2019.4**: Postgraduate Entrance Exam Preparation, China  
 - **2017.6 – 2018.3**: CRM Developer (Outsourced to CICC), Shanghai Hande Information, Shanghai, China  
