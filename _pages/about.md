@@ -71,7 +71,8 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 # Education
 
-- **2020.9 – 2026.6**: PhD in Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing, China  
+- **2023.9 – now**: Conducted in remote collaboration with the University of Technology Sydney, Australia
+- **2020.9 – 2026.6**: PhD in Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing, China
 - **2014.9 – 2018.6**: B.Eng. in Geographic Information Science, Central South University of Forestry and Technology, Changsha, China
 
 # Contact
