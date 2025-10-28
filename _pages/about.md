@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year PhD candidate at Beijing University of Posts and Telecommunications (**BUPT**), expected to graduate next year. My research focuses on reinforcement learning, intelligent traffic control, and machine unlearning. During my PhD, I have collaborated with [Prof. Qiang Wu](https://scholar.google.com/citations?user=edUqF7sAAAAJ&hl=en) on traffic signal control, contributing to innovative solutions in this field. I earned my B.Eng. degree from Central South University of Forestry and Technology and pursued both my M.Eng. and PhD at BUPT’s State Key Laboratory of Networking and Switching Technology, under the supervision of [Prof. Penghai Peng](https://scholar.google.com/citations?user=pZqxzFoAAAAJ&hl=zh-CN) and [Prof. Lixiang Li](https://scholar.google.com/citations?user=xXyZ2VkAAAAJ&hl=zh-CN). 
+I am currently a third-year PhD candidate at Beijing University of Posts and Telecommunications (**BUPT**), expected to graduate next year. During my PhD, I have collaborated with [Qiang Wu](https://scholar.google.com/citations?user=edUqF7sAAAAJ&hl=en) on traffic signal control, contributing to innovative solutions in this field. I earned my B.Eng. degree from Central South University of Forestry and Technology and pursued both my M.Eng. and PhD at BUPT’s State Key Laboratory of Networking and Switching Technology, under the supervision of [Penghai Peng](https://scholar.google.com/citations?user=pZqxzFoAAAAJ&hl=zh-CN) and [Lixiang Li](https://scholar.google.com/citations?user=xXyZ2VkAAAAJ&hl=zh-CN). As a co-founder of Beijing City Intelligence, I have led the development of algorithms that have been successfully deployed at 40 intersections across three cities, demonstrating real-world impact. I am passionate about integrating academia and industry, aiming to translate my research into practical applications. 
 
-As a co-founder of Beijing City Intelligence, I have led the development of algorithms that have been successfully deployed at 40 intersections across three cities, demonstrating real-world impact. I am passionate about integrating academia and industry, aiming to translate my research into practical applications. I have published 4 papers in top-tier international conferences and journals, with an additional four under review. **My current research interests include embodied intelligence, robotics, and autonomous driving, and I am actively seeking postdoctoral opportunities in these areas, email: henryli_i@bupt.edu.cn**.
-
-If you are interested in my research, potential collaborations, or postdoctoral opportunities, please feel free to contact me via email. I warmly welcome inquiries!
+I will be pursuing postdocresearch in **AI for Healthcare** at the **[ELLIS Institute](https://www.ellisinstitute.fi/)** with [Dr. Shaoxiong Ji](https://shaoxiongji.github.io/), and concurrently focusing on **AI for Security** at the **University of Technology Sydney** in collaboration with [Saber Yu](https://profiles.uts.edu.au/Guangsheng.Yu), [Xu Wang](https://profiles.uts.edu.au/Xu.Wang), and [Wei Ni](https://scholar.google.com/citations?user=GMS201gAAAAJ&hl=en). If you are interested in my research, potential collaborations, or postdoctoral opportunities, please feel free to contact me via email. I warmly welcome inquiries!
 
 
-# Publications
+# Some Publications
 
 
 - [**FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities**](https://arxiv.org/pdf/2501.15820?)
@@ -77,8 +75,6 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 # Contact
 
-If interested, please contact me via the WeChat QR code below:
-
-<img src="images/demo3.png" alt="Traffic Signal Control Screenshot" width="300" height="300" />
+Email: mingyl@utu.fi
 
 
