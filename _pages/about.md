@@ -26,24 +26,6 @@ I will be pursuing postdocresearch in **AI for Healthcare** at the **[ELLIS Inst
   ICML 2025
 
 
-- [**TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer**](https://dl.acm.org/doi/pdf/10.1145/3580305.3599530)
-
-  Q Wu\*, **M Li**\*, J Shen, L Lü, B Du, Zhang, Ke  
-  KDD 2024 | *equal contribution, 2639-2647  
-
-- [**BlockFUL: Enabling Unlearning in Blockchained Federated Learning**](https://arxiv.org/pdf/2402.16294v1)
-  
-  X Liu\*, **M Li**\*, X Wang, G Yu, W Ni, L Li, H Peng, R Liu  
-  IEEE Transactions on Information Forensics and Security | *equal contribution  
-  2025  
-
-- [**Fishers Harvest Parallel Unlearning in Inherited Model Networks**](https://arxiv.org/pdf/2408.08493)
-  
-  X Liu\*, **M Li**\*, X Wang, G Yu, W Ni, L Li, H Peng, R Liu  
-  arXiv preprint arXiv:2408.08493 | *equal contribution  
-  2024  
-
-
 # Project Snapshot
 
 Below is a video showcasing my work on traffic signal control algorithms deployed in real-world settings and mango TV show.
