@@ -37,8 +37,7 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 [Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
 
-# Work Experience（Trial and Error）
-- **2025.12 – Present**: Alibaba DAMO Academy, China  
+# Work Experience（Trial and Error） 
 - **2022.9 – Present**: Co-founder, Beijing City Intelligence Co., Ltd., Beijing, China  
 - **2022.6 – 2022.9**: Meituan, China  
 - **2022.3 – 2022.6**: Baidu, China  
