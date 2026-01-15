@@ -37,22 +37,18 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 [Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
 
-# Work Experience（Trial and Error） 
-- **2022.9 – Present**: Co-founder, Beijing City Intelligence Co., Ltd., Beijing, China  
-- **2022.6 – 2022.9**: Meituan, China  
-- **2022.3 – 2022.6**: Baidu, China  
-- **2021.9 – 2022.3**: Didi, China  
-- **2020.1 – 2020.8**: Manulife, China  
-- **2019.10 – 2020.1**: Postgraduate Entrance Exam Preparation, China  
-- **2019.4 – 2019.10**:Shanghai Maisi Technology, China  
-- **2018.9 – 2019.4**: Postgraduate Entrance Exam Preparation, China  
-- **2017.6 – 2018.3**: China International Capital Corporation (CICC), China    
+# Research Experience
+- ELLIS institute& University of Turku, Finland
+- University of Technology Sydney, Australia
+- Damo Alibaba
+  
+# Industry Experience 
+- Co-founder, Beijing City Intelligence Co., Ltd., China  
+- Meituan, Baidu, Didi, Manulife, XuMing Found, CICC, China    
 
 # Education
-- **2025.10 – now**: Conducted in remote collaboration with the ELLIS institute& University of Turku, Finland
-- **2023.9 – now**: Conducted in remote collaboration with the University of Technology Sydney, Australia
-- **2020.9 – 2026.6**: PhD in Beijing University of Posts and Telecommunications, Beijing, China
-- **2014.9 – 2018.6**: B.Eng. Central South University of Forestry and Technology, Changsha, China
+- PhD in Beijing University of Posts and Telecommunications, Beijing, China
+- B.Eng. Central South University of Forestry and Technology, Changsha, China
 
 # Contact
 
