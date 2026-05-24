@@ -35,7 +35,7 @@ Below is a video showcasing my work on traffic signal control algorithms deploye
 
 <img src="images/demo2.jpg" alt="Traffic Signal Control Screenshot" width="500" height="300" />
 
-[Mango TV](https://www.youtube.com/watch?v=LrThVqjFmJc)
+[Mango TV](https://www.mgtv.com/b/706555/22426686.html)
 
 # Research Experience
 - ELLIS institute& University of Turku, Finland
